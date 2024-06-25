@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\DayofWeekArray\DayofWeekArray\bin\Debug\net8.0\DayofWeekArray.exe
+C:\Users\ninag\RiderProjects\DayofWeekArray\DayofWeekArray\bin\Debug\net8.0\DayofWeekArray.deps.json
+C:\Users\ninag\RiderProjects\DayofWeekArray\DayofWeekArray\bin\Debug\net8.0\DayofWeekArray.runtimeconfig.json
+C:\Users\ninag\RiderProjects\DayofWeekArray\DayofWeekArray\bin\Debug\net8.0\DayofWeekArray.dll
+C:\Users\ninag\RiderProjects\DayofWeekArray\DayofWeekArray\bin\Debug\net8.0\DayofWeekArray.pdb
+C:\Users\ninag\RiderProjects\DayofWeekArray\DayofWeekArray\obj\Debug\net8.0\DayofWeekArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\DayofWeekArray\DayofWeekArray\obj\Debug\net8.0\DayofWeekArray.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\DayofWeekArray\DayofWeekArray\obj\Debug\net8.0\DayofWeekArray.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\DayofWeekArray\DayofWeekArray\obj\Debug\net8.0\DayofWeekArray.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\DayofWeekArray\DayofWeekArray\obj\Debug\net8.0\DayofWeekArray.dll
+C:\Users\ninag\RiderProjects\DayofWeekArray\DayofWeekArray\obj\Debug\net8.0\refint\DayofWeekArray.dll
+C:\Users\ninag\RiderProjects\DayofWeekArray\DayofWeekArray\obj\Debug\net8.0\DayofWeekArray.pdb
+C:\Users\ninag\RiderProjects\DayofWeekArray\DayofWeekArray\obj\Debug\net8.0\DayofWeekArray.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\DayofWeekArray\DayofWeekArray\obj\Debug\net8.0\ref\DayofWeekArray.dll
